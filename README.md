@@ -32,3 +32,8 @@ Fue desarrollado con un enfoque en la práctica del maquetado web y buenas prác
 - **CSS3**  
 - **Metodología BEM**  
 - **Normalize.css**  
+
+## Visita el proyecto
+
+Puedes visitar el sitio en:  
+[frontend-store-edson.netlify.app](https://frontend-store-edson.netlify.app)
